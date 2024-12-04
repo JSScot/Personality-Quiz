@@ -50,7 +50,7 @@ function early()
   //console.log("early bird option");
     earlyBird +=1;
     questionCount +=1;
-     disable()
+    disable()
 
     console.log("question count= "+ questionCount+ " early bird = "+earlyBird)
 
@@ -59,13 +59,8 @@ function early()
       console.log("quiz is done")
       results()
     }
-
-
-    
+   
   }
-
-
-
 
 function night() 
   {
