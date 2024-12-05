@@ -8,6 +8,7 @@ var nightOwl = 0;
 console.log(earlyBird);
 
 /*Answers*/
+
 var result = document.getElementById("result");
 var restart = document.getElementById("restart");
 
